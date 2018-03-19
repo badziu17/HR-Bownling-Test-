@@ -1,0 +1,16 @@
+C:\Users\DDS\source\repos\HrUp\BowlingGame.Tests\bin\Debug\NUnit3.TestAdapter.dll
+C:\Users\DDS\source\repos\HrUp\BowlingGame.Tests\bin\Debug\NUnit3.TestAdapter.pdb
+C:\Users\DDS\source\repos\HrUp\BowlingGame.Tests\bin\Debug\nunit.engine.dll
+C:\Users\DDS\source\repos\HrUp\BowlingGame.Tests\bin\Debug\nunit.engine.api.dll
+C:\Users\DDS\source\repos\HrUp\BowlingGame.Tests\bin\Debug\Mono.Cecil.dll
+C:\Users\DDS\source\repos\HrUp\BowlingGame.Tests\bin\Debug\BowlingGame.Tests.dll
+C:\Users\DDS\source\repos\HrUp\BowlingGame.Tests\bin\Debug\BowlingGame.Tests.pdb
+C:\Users\DDS\source\repos\HrUp\BowlingGame.Tests\bin\Debug\BowlingGame.dll
+C:\Users\DDS\source\repos\HrUp\BowlingGame.Tests\bin\Debug\nunit.framework.dll
+C:\Users\DDS\source\repos\HrUp\BowlingGame.Tests\bin\Debug\BowlingGame.pdb
+C:\Users\DDS\source\repos\HrUp\BowlingGame.Tests\bin\Debug\nunit.framework.pdb
+C:\Users\DDS\source\repos\HrUp\BowlingGame.Tests\bin\Debug\nunit.framework.xml
+C:\Users\DDS\source\repos\HrUp\BowlingGame.Tests\obj\Debug\BowlingGame.Tests.csprojResolveAssemblyReference.cache
+C:\Users\DDS\source\repos\HrUp\BowlingGame.Tests\obj\Debug\BowlingGame.Tests.csproj.CoreCompileInputs.cache
+C:\Users\DDS\source\repos\HrUp\BowlingGame.Tests\obj\Debug\BowlingGame.Tests.dll
+C:\Users\DDS\source\repos\HrUp\BowlingGame.Tests\obj\Debug\BowlingGame.Tests.pdb
